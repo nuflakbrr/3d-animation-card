@@ -1,4 +1,4 @@
-# https://nuflakbrr.github.io/3d-animation-card
+# nuflakbrr.github.io/3d-animation-card
 
 3D Animation Card Website.
 
